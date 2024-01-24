@@ -6,7 +6,7 @@
 
 ### **About Me**
 
-I am a seasoned web developer with a track record of 5 years in the dynamic realm of web technologies. My expertise lies in crafting robust and user-friendly applications, with a particular focus on React and Node.js. Beyond traditional web development, my journey has led me into the exciting world of blockchain, where I specialize in EVM-based chains and smart contract development using Solidity.
+I am a seasoned web developer with over a track record of 6 years in the dynamic realm of web technologies. My expertise lies in crafting robust and user-friendly applications, with a particular focus on React and Node.js. Beyond traditional web development, my journey has led me into the exciting world of blockchain, where I specialize in EVM-based chains and smart contract development using Solidity.
 
 ### **Professional Background**
 
