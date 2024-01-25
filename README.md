@@ -33,6 +33,6 @@ I am a seasoned web developer with over a track record of 6 years in the dynamic
 - **Smart Contract Development:** My proficiency in Solidity enables me to design and implement secure and efficient smart contracts tailored to the specific needs of blockchain applications.
 
 ### **Let's Connect!**
-I am enthusiastic about collaborating on innovative projects, connecting with fellow developers, and engaging in discussions about the latest advancements in technology. Don't hesitate to reach out via [LinkedIn](Your LinkedIn Profile) or [GitHub](Your GitHub Profile).
+I am enthusiastic about collaborating on innovative projects, connecting with fellow developers, and engaging in discussions about the latest advancements in technology. Don't hesitate to reach out via [Gmail](nikbajaj3196@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nikhil-bajaj-a5544a280/).
 
 Looking forward to exploring new opportunities and contributing to the evolving landscape of web and blockchain technologies!
