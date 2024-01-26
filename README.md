@@ -65,8 +65,6 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 
 - **Smart Contract Development:** My proficiency in Solidity enables me to design and implement secure and efficient smart contracts tailored to the specific needs of blockchain applications.
 
-### **Let's Connect!**
-I am enthusiastic about collaborating on innovative projects, connecting with fellow developers, and engaging in discussions about the latest advancements in technology. Don't hesitate to reach out via [Gmail](mailto:nikbajaj3196@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nikhil-bajaj-a5544a280/). 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Looking forward to exploring new opportunities and contributing to the evolving landscape of web and blockchain technologies! <b> Let's build the future of decentralized technologies together! 🚀</b> :)</em>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Looking forward to exploring new opportunities and contributing to the evolving landscape of web and blockchain technologies! <b> Let's build the future of decentralized technologies together! 🚀</b></em>
+<br></br>
+Don't hesitate to reach out via [Gmail](mailto:nikbajaj3196@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nikhil-bajaj-a5544a280/). 
