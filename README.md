@@ -23,6 +23,9 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-Solidity-E10098?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  
+  
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Codechef-" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat-square&logo=Codechef&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
@@ -48,14 +51,15 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 - **EVM-Based Chains:** My passion for blockchain technology has led me to specialize in EVM-based chains, such as Ethereum. Here, I have hands-on experience in developing smart contracts using Solidity, contributing to the decentralized applications (DApps) ecosystem.
  
 ### **Key Skills:**
-- **Web Technologies:** React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend Development:** Node.js, Express.js
-- **Blockchain:** Solidity, Ethereum, Web3.js
-- **Version Control:** Git, GitHub
-- **Database:** MongoDB
-- **Tools & Platforms:** VS Code, Truffle Suite, Remix IDE
-- **Collaboration:** Agile methodologies, Scrum
-
+-  Oracles ( Chainlink, Pyth Network, UMA, API3)
+-  Lending and Borrow ( Maker Dao, Uniswap, Aave, Compound, Euler Finance, 1inch)
+-  NFT's ( nft.io, Rarible, Enjin, Sandbox, Opensea, CryptoPunks)
+-  AMM Liquidity Pools (Uniswap, Apwine, Curve, Hyperlane)
+-  Cross-Chain Liquidity Bridges ( Celer Sgn V2, Layer-0, Warmhole)
+-  Perpetual Futures  (dYdX, ByBit, Kraken, DeriBit)
+-  Dex aggregator ( 1inch, LI.FI, Uniswap, Curve)
+-  PSM Module ( MakerDAO)
+-  Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
 ### **What Sets Me Apart:**
 - **Blockchain Enthusiast:** I bring a unique blend of traditional web development expertise with a deep understanding of blockchain technologies, emphasizing my commitment to the decentralized future.
 
