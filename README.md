@@ -55,27 +55,27 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 I've worked with various blockchain projects and protocols, including:
 
 ### **Projects and Protocols:**
-🏦 Aave
-🔄 Uniswap
-💰 Compound Protocol
-🛠 Euler Finance
-🚗 Gear Box
-🍇 Apwine
-📈 1inch
-💳 MakerDAO
-⚙ Hyperlane
-🌐 LayerZero
-🔄 Celer Sgn V2
-🧪 PSM Module
-💱 Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
-🌉 Cross-Chain Liquidity Bridges
-📈 Perpetual Futures
-📈 Volmex Finance
-🎨 Opensea
-🕹 Sandbox
-🎨 Enjin
-🎨 Rarible
-🎮 CryptoPunks
+- 🏦 Aave
+- 🔄 Uniswap
+- 💰 Compound Protocol
+- 🛠 Euler Finance
+- 🚗 Gear Box
+- 🍇 Apwine
+- 📈 1inch
+- 💳 MakerDAO
+- ⚙ Hyperlane
+- 🌐 LayerZero
+- 🔄 Celer Sgn V2
+- 🧪 PSM Module
+- 💱 Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
+- 🌉 Cross-Chain Liquidity Bridges
+- 📈 Perpetual Futures
+- 📈 Volmex Finance
+- 🎨 Opensea
+- 🕹 Sandbox
+- 🎨 Enjin
+- 🎨 Rarible
+- 🎮 CryptoPunks
 
 ### **What Sets Me Apart:**
 - **Blockchain Enthusiast:** I bring a unique blend of traditional web development expertise with a deep understanding of blockchain technologies, emphasizing my commitment to the decentralized future.
