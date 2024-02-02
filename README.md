@@ -40,16 +40,6 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-### **Professional Background**
-#### **Web Development Expertise:**
-
-- **Frontend Mastery:** Proficient in React.js, I have been at the forefront of creating dynamic and responsive user interfaces, ensuring seamless user experiences across various platforms.
-
-- **Backend Prowess:** In the backend, I have leveraged the power of Node.js to build scalable and efficient server-side applications, contributing to the overall performance and functionality of web applications.
-
-#### **Blockchain Focus:**
-- **EVM-Based Chains:** My passion for blockchain technology has led me to specialize in EVM-based chains, such as Ethereum. Here, I have hands-on experience in developing smart contracts using Solidity, contributing to the decentralized applications (DApps) ecosystem.
- 
 ### **Key Skills:**
 -  Oracles ( Chainlink, Pyth Network, UMA, API3)
 -  Lending and Borrow ( Maker Dao, Uniswap, Aave, Compound, Euler Finance, 1inch)
@@ -60,6 +50,33 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 -  Dex aggregator ( 1inch, LI.FI, Uniswap, Curve)
 -  PSM Module ( MakerDAO)
 -  Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
+
+  Projects and Protocols
+I've worked with various blockchain projects and protocols, including:
+
+### **Projects and Protocols:**
+🏦 Aave
+🔄 Uniswap
+💰 Compound Protocol
+🛠 Euler Finance
+🚗 Gear Box
+🍇 Apwine
+📈 1inch
+💳 MakerDAO
+⚙ Hyperlane
+🌐 LayerZero
+🔄 Celer Sgn V2
+🧪 PSM Module
+💱 Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
+🌉 Cross-Chain Liquidity Bridges
+📈 Perpetual Futures
+📈 Volmex Finance
+🎨 Opensea
+🕹 Sandbox
+🎨 Enjin
+🎨 Rarible
+🎮 CryptoPunks
+
 ### **What Sets Me Apart:**
 - **Blockchain Enthusiast:** I bring a unique blend of traditional web development expertise with a deep understanding of blockchain technologies, emphasizing my commitment to the decentralized future.
 
