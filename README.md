@@ -49,10 +49,8 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 -  Perpetual Futures  (dYdX, ByBit, Kraken, DeriBit)
 -  Dex aggregator ( 1inch, LI.FI, Uniswap, Curve)
 -  PSM Module ( MakerDAO)
+-  DAOs Governance ( Aragon) 
 -  Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
-
-  Projects and Protocols
-I've worked with various blockchain projects and protocols, including:
 
 ### **What Sets Me Apart:**
 - **Blockchain Enthusiast:** I bring a unique blend of traditional web development expertise with a deep understanding of blockchain technologies, emphasizing my commitment to the decentralized future.
