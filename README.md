@@ -3,7 +3,7 @@
 
 ## About Me
 
-With a versatile skill set, I excel in crafting intuitive user interfaces for various decentralized finance (DeFi) applications, including lending platforms, trading platforms, automated market makers (AMMs), and NFT games. My expertise spans scalability solutions through Layer 2 implementations, contributing to real-world asset tokenization, and conducting comprehensive security audits.
+With a versatile skill set, I excel in crafting intuitive user interfaces for various decentralized finance (DeFi) applications, including lending platforms, Perpetuals DEX, trading platforms, automated market makers (AMMs), and NFT games. My expertise spans scalability solutions through Layer 2 implementations, contributing to real-world asset tokenization, and conducting comprehensive security audits.
 I am proficient in Rust, Go, and Solidity, allowing me to seamlessly integrate frontend development with robust blockchain solutions. My portfolio includes the development and design of lending and borrowing protocols, token converters, and routers for asset swapping.
 My commitment goes beyond writing code; I prioritize code readability, adhere to coding style guidelines, and provide meticulous documentation. This ensures that the projects I contribute to are not only functional but also maintainable and well-documented.
 
@@ -41,12 +41,12 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 </p>
 
 ### **Key Skills:**
+-  Perpetual Futures  (dYdX, ByBit, Kraken, DeriBit)
+-  Cross-Chain Liquidity Bridges ( Celer Sgn V2, Layer-0, Warmhole)
+-  AMM Liquidity Pools (Uniswap, Apwine, Curve, Hyperlane)
 -  Oracles ( Chainlink, Pyth Network, UMA, API3)
 -  Lending and Borrow ( Maker Dao, Uniswap, Aave, Compound, Euler Finance, 1inch)
 -  NFT's ( nft.io, Rarible, Enjin, Sandbox, Opensea, CryptoPunks)
--  AMM Liquidity Pools (Uniswap, Apwine, Curve, Hyperlane)
--  Cross-Chain Liquidity Bridges ( Celer Sgn V2, Layer-0, Warmhole)
--  Perpetual Futures  (dYdX, ByBit, Kraken, DeriBit)
 -  Dex aggregator ( 1inch, LI.FI, Uniswap, Curve)
 -  PSM Module ( MakerDAO)
 -  DAOs Governance ( Aragon) 
