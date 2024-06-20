@@ -59,4 +59,3 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Looking forward to exploring new opportunities and contributing to the evolving landscape of web and blockchain technologies! <b> Let's build the future of decentralized technologies together! 🚀</b></em>
 <br></br>
-Don't hesitate to reach out via [Gmail](mailto:nikbajaj3196@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nikhil-bajaj-a5544a280/). 
