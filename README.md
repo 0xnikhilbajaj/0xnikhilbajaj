@@ -14,6 +14,7 @@ My commitment goes beyond writing code; I prioritize code readability, adhere to
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNikhilBajaj)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
